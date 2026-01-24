@@ -37,7 +37,7 @@
     "@vue/runtime-core": "latest",
     "@vue/runtime-dom": "latest",
     "csstype": "latest",
-    "lodash-es": "latest"
+    "lodash-es": "4.17.23"
   },
   "devDependencies": {
     "@types/chart.js": "^2.9.35",
